@@ -62,7 +62,7 @@ As the developer of `GPT-Financial-Insights`, I do not claim responsibility for 
 
 Contact
 
-Author: Pratik Relekar, Matias Carrasco Kind
+Author: Pratik Relekar, Qingwen (Freya) Liang, Matias Carrasco Kind
 Email: pratik.relekar@gmail.com
 Project Link: GPT-Financial-Insights
 
